@@ -26,5 +26,3 @@ Welcome to the #90DaysOfDevOps Challenge with the #TrainWithShubham Community! T
    - Read and comment on posts from other participants to foster a collaborative learning environment.
 
 
- **task completed**
-https://www.linkedin.com/posts/roohmeiy_devops-introduction-notes-activity-7248355155606151168-kGwv/?utm_source=share&utm_medium=member_android
